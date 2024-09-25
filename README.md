@@ -35,4 +35,3 @@
 ## Contact
 Created by
 - Abhishek Das
-- Abhilash Awasthi
